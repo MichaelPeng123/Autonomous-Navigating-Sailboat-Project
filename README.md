@@ -1,5 +1,6 @@
 # Autonomous Navigating Sailboat
-A boat that uses pid algorithms to automatically navigate
+
+An algorithm that autonomously navigates the rudders of a sail-boat using a PID (Proportional, Derivative, and Integral) controller computed from parsed compass and GPS Data.
 
 -Coded using arduino
 
