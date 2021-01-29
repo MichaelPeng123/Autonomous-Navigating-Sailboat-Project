@@ -4,7 +4,7 @@ An algorithm that autonomously navigates the rudders of a sail-boat using a PID 
 
 -Coded using arduino
 
--Look in folder boat code Adv. for code
+-Look in folder boat code Adv. for codef
 
 -essential libraries included in other folders
 
