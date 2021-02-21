@@ -7,4 +7,3 @@ An algorithm that autonomously navigates the rudders of a sail-boat using a PID 
 -Look in folder boat code Adv. for code
 
 -essential libraries included in other folders
-g
